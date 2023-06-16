@@ -6,7 +6,7 @@ A python project to produce a visualisation of blockages in an artery, based on 
    - If you don't have git installed on your machine press the following [link]( https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) to check/download git  
    - Make sure you are running Python 3.10 with `python --version`. If not, all active releases can be found [here](https://www.python.org/downloads/)
    - To clone the repository run the following code into your terminal:  
-    <code>git clone https://stgit.dcs.gla.ac.uk/team-project-h/2021/cs33/cs33-main.git</code>  
+    <code>git clone https://github.com/StamTheo28/EIT-Imaging-Python.git</code>  
    - run `pip install -r requirements.txt`  
     
     Alternatively, the source code zip file is available [here.](https://github.com/StamTheo28/EIT-Imaging-Python/archive/refs/heads/main.zip)
