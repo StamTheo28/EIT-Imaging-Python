@@ -13,7 +13,7 @@ A python project to produce a visualisation of blockages in an artery, based on 
 
 2. Install the executable Version:  
     ***Note*** The executable version works only on Windows 64-bit System  
-    - Download the VascuSens installer on your machine by clicking on this [link](https://stgit.dcs.gla.ac.uk/team-project-h/2021/cs33/cs33-main/-/releases) and pressing download on the Windows 64-bit Installer on the latest release. 
+    - Download the VascuSens installer on your machine by clicking on this [link](https://drive.google.com/file/d/1Hr9mUtghUvzLqqcHWFfcSue5nxPF_RyP/view?usp=drive_link) and pressing download on the Windows 64-bit Installer on the latest release. 
    - Run the msi installer that has just been downloaded  
    - Choose the install location of the app on your local machine  
    - At the chosen location, there will be a folder containing the executable file “VascuSensVis” and any data it needs. Do not remove the executable from the folder. Instead, create a shortcut on your desktop to the executable file, for example  
