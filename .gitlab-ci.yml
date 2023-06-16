@@ -1,0 +1,31 @@
+image: "python:3.10.2"
+
+cache:
+  paths:
+    - .cache/pip
+    - venv/
+
+before_script:
+  - python -V
+  - pip install virtualenv
+  - virtualenv venv
+  - source venv/bin/activate
+  - pip install -r requirements.txt
+
+stages:
+  - lint
+  - test
+
+lint:
+  stage: lint
+  script:
+    - echo "Linting"
+    - python -m pip install flake8
+    - cd vascusens/
+    - flake8 .
+
+#TODO: To be added to later in the project
+test:
+  stage: test
+  script:
+    - echo "Testing"
