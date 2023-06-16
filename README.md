@@ -77,8 +77,8 @@ Run the main python script with optional arguments (note that INPUT_PATH is requ
 | Name       | Student ID  | Email | Customer Role | SCRUM Role |
 | ------ | ------ | ------ | ------ | ------ | 
 | Luke Hopkins | ***** | ***** | Variable | Variable | 
-| Thomas McCausland  | ***** | ****** | Variable | Variable |
-| Yifei Yu | ***** | ****** | Variable | Variable | 
+| Thomas McCausland  | ***** | ***** | Variable | Variable |
+| Yifei Yu | ***** | ***** | Variable | Variable | 
 | Stamatis Theocharous| ***** | ***** | Variable | Variable | 
 
 *Note: Customer Roles and SCRUM roles all vary between each Sprint in order for all members of the team to get hands-on experience in every role.*
