@@ -9,7 +9,7 @@ A python project to produce a visualisation of blockages in an artery, based on 
     <code>git clone https://stgit.dcs.gla.ac.uk/team-project-h/2021/cs33/cs33-main.git</code>  
    - run `pip install -r requirements.txt`  
     
-    Alternatively, the source code zip file is available [here.](https://stgit.dcs.gla.ac.uk/team-project-h/2021/cs33/cs33-main/-/releases/)
+    Alternatively, the source code zip file is available [here.](https://github.com/StamTheo28/EIT-Imaging-Python/archive/refs/heads/main.zip)
 
 2. Install the executable Version:  
     ***Note*** The executable version works only on Windows 64-bit System  
